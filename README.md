@@ -26,8 +26,7 @@ java Main
 ```
 
 ## Java Badge ##
-
-![Java Badge](https://img.shields.io/badge/Javafor-the-badge&logo=openjdk&logoColor=white
+![Java Badge](https://img.shields.io/badge/Java-17-orange)
 ## Resources ##
 
 - https://docs.oracle.com/en/java/
